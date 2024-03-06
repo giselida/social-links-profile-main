@@ -7,6 +7,10 @@
   --blue: hsl(228, 45%, 44%);
 }
 
+body {
+  font-family: "Inter", sans-serif;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
