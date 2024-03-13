@@ -53,7 +53,7 @@ Deploy do front-end efetuado no [Netlify](https://www.netlify.com/) para visuali
 
 <div align="center">
 
-Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-FrlikQYNkK) <img height="20px" src="images/favicon-32x32.png">
+Minha versão da aplicação proposta pelo [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-FrlikQYNkK) <img height="20px" src="assets/images/favicon-32x32.png">
 
 ---
 
